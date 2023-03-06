@@ -61,7 +61,7 @@
             "src": "maskable_icon.png",
             "sizes": "650x650",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": "any"
         }
 	]
 }
